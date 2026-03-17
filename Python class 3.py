@@ -12,6 +12,10 @@ for i in range(1, 101):
     if i % 2 != 0:
         print(i)
 
+# 4. Multiplication table of 7
+for i in range(1, 11):
+    print("7 x", i, "=", 7 * i)
+
 # 5. Find sum of numbers from 1 to 100
 total = 0
 for i in range(1, 101):
